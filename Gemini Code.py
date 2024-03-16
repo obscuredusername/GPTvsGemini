@@ -4,7 +4,7 @@ import re
 import random
 import time
 
-genai.configure(api_key="AIzaSyCF7WqrdntJOb39QXcBJtTEQfsi_3DLR3U")  # Replace with your actual API key
+genai.configure(api_key="You API key")  # Replace with your actual API key
 
 # Set up the model
 generation_config = {
